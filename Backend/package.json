@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "async": "^3.2.6",
+    "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "csurf": "^1.11.0",
@@ -29,4 +30,3 @@
     "build": "node psql-setup-script.js"
   }
 }
-
